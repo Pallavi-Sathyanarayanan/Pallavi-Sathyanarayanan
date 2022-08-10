@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pallavi-Sathyanarayanan
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Full Stack Developer
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pallupriya2001@gmail.com
 
